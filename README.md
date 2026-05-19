@@ -10,3 +10,9 @@ This  Repo is to learn Github
 -git add . ==Track all the changes in the repository
 
 SSH keys - Protection and encryption for Repository
+
+## Latest Thing Learnt(19 May 2026(13:28 hours))
+git push -u origin master
+#this makes the default branch to push to the origin master
+
+# next time We will not need to write the whole command 
