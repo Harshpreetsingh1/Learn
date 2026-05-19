@@ -8,3 +8,5 @@ This  Repo is to learn Github
 
 ## Latest Thing Learnt(19 May 2026(13:12 hours))
 -git add . ==Track all the changes in the repository
+
+SSH keys - Protection and encryption for Repository
