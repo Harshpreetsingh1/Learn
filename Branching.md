@@ -13,3 +13,6 @@ git checkout "branch name"
 (20 May 2026)(13:27 hours)
 git checkout -b "branch name"
 
+# Diff command
+
+it displays the changes
