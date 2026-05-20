@@ -16,3 +16,6 @@ git push -u origin master
 #this makes the default branch to push to the origin master
 
 # next time We will not need to write the whole command 
+
+# Command for adding and committing at the same time
+git commit -am "Commit message"
