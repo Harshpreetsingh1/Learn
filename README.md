@@ -16,3 +16,12 @@ git push -u origin master
 #this makes the default branch to push to the origin master
 
 # next time We will not need to write the whole command 
+
+20 May 2026(13:01 hours)
+Local Git Workflow- 
+Write Code->Stage Changes->Commit changes->git push->make a pull request
+
+Github Workflow- 
+Write Code->Commit Changes->Make a pull request
+
+
